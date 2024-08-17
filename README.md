@@ -1,6 +1,6 @@
 # JUNIT
 
-Projeto prático em testes.
+Pratica em testes
 
 Utilizando uma aplicação de calculo de imposto de renda( Inserido JAR na raiz ). Realizo testes de caixa preta utilizando análise de valor limite, técnica de teste que valida valores superiores e inferiores aos particionamentos de equivalencia.
 
